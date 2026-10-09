@@ -1733,7 +1733,9 @@ function OrionLib:MakeWindow(WindowConfig)
 			})
 		end
 		return ElementFunction   
-	end
+	end  
+	
+
 	
 	return TabFunction
 end   
